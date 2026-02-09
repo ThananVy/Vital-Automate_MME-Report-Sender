@@ -1,0 +1,11 @@
+[project]
+name = "3-telegram-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-telegram-bot>=20.0",
+    "requests>=2.32.5",
+    "telegram>=0.0.1",
+]
